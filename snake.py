@@ -1,8 +1,6 @@
 '''
 Snake game.
-Authors:
-<insert the names of your teammates here>
-'''
+Authors: Allen Warner Ben Clinkscale
 
 import pygame
 import random
